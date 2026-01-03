@@ -1,0 +1,71 @@
+{
+  "manifestVersion": 1,
+  "generated": "2026-01-03T11:12:09.565Z",
+  "datasetSchema": 1,
+  "countries": {
+    "CA": {
+      "name": "CA",
+      "file": "datasets/CA.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 321,
+      "checksum": "sha256:3cd834d0efdd156202b81ff217bfca8febaf9eca1a6e572d564e44a9a84b90f1"
+    },
+    "GB": {
+      "name": "GB",
+      "file": "datasets/GB.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 2142,
+      "checksum": "sha256:c51832df2d104f68079d9f29e7e6f4d5ee73b2780f910be8a3a9cc94c4066969"
+    },
+    "IE": {
+      "name": "IE",
+      "file": "datasets/IE.json",
+      "version": "2026.01.03.1",
+      "changeType": "content",
+      "recordCount": 140954,
+      "checksum": "sha256:915428b67a19b76c5a7e62964fa6f17a2a223e966371f9f64b1cd91dbde17aed"
+    },
+    "NL": {
+      "name": "NL",
+      "file": "datasets/NL.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 1545,
+      "checksum": "sha256:00403f53880a6c841a1ceee120efccfd8da83a4566fe3ebd0be8ba00c1efa2fb"
+    },
+    "NZ": {
+      "name": "NZ",
+      "file": "datasets/NZ.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 1141,
+      "checksum": "sha256:9573ee7e2016e2aec6b5c96a12b05b3c4776b7633a13666b45bd2935d60de1bb"
+    },
+    "PL": {
+      "name": "PL",
+      "file": "datasets/PL.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 2315,
+      "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
+    },
+    "US": {
+      "name": "US",
+      "file": "datasets/US.json",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 69960,
+      "checksum": "sha256:922ccfce3c9bccdfd78fe8bc0c275b8f516a19fb60f4136442901d750925fd76"
+    },
+    "ZA": {
+      "name": "ZA",
+      "file": "datasets/ZA.json",
+      "version": "2026.01.02.2",
+      "changeType": "content",
+      "recordCount": 11353,
+      "checksum": "sha256:88570971785c116b084ac355d10fc181e834208b03af97a25ef6b369461d9d30"
+    }
+  }
+}
