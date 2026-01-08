@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-08T09:24:43.805Z",
+  "generated": "2026-01-08T13:20:10.187Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
-      "name": "AU",
+      "name": "Australia",
       "file": "datasets/AU.json",
       "version": "2026.01.08.1",
       "changeType": "content",
@@ -12,7 +12,7 @@
       "checksum": "sha256:70f0a5fe684584d462dd3a262ed32d40febbde65dc7de64c4003b658edf9fcd6"
     },
     "CA": {
-      "name": "CA",
+      "name": "Canada",
       "file": "datasets/CA.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -20,7 +20,7 @@
       "checksum": "sha256:3cd834d0efdd156202b81ff217bfca8febaf9eca1a6e572d564e44a9a84b90f1"
     },
     "GB": {
-      "name": "GB",
+      "name": "United Kingdom",
       "file": "datasets/GB.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -28,7 +28,7 @@
       "checksum": "sha256:c51832df2d104f68079d9f29e7e6f4d5ee73b2780f910be8a3a9cc94c4066969"
     },
     "IE": {
-      "name": "IE",
+      "name": "Ireland",
       "file": "datasets/IE.json",
       "version": "2026.01.03.1",
       "changeType": "content",
@@ -36,7 +36,7 @@
       "checksum": "sha256:915428b67a19b76c5a7e62964fa6f17a2a223e966371f9f64b1cd91dbde17aed"
     },
     "NL": {
-      "name": "NL",
+      "name": "Netherlands",
       "file": "datasets/NL.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -44,7 +44,7 @@
       "checksum": "sha256:00403f53880a6c841a1ceee120efccfd8da83a4566fe3ebd0be8ba00c1efa2fb"
     },
     "NZ": {
-      "name": "NZ",
+      "name": "New Zealand",
       "file": "datasets/NZ.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -52,7 +52,7 @@
       "checksum": "sha256:9573ee7e2016e2aec6b5c96a12b05b3c4776b7633a13666b45bd2935d60de1bb"
     },
     "PL": {
-      "name": "PL",
+      "name": "Poland",
       "file": "datasets/PL.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -60,7 +60,7 @@
       "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
     },
     "US": {
-      "name": "US",
+      "name": "United States",
       "file": "datasets/US.json",
       "version": "2026.01.02.1",
       "changeType": "content",
@@ -68,7 +68,7 @@
       "checksum": "sha256:922ccfce3c9bccdfd78fe8bc0c275b8f516a19fb60f4136442901d750925fd76"
     },
     "ZA": {
-      "name": "ZA",
+      "name": "South Africa",
       "file": "datasets/ZA.json",
       "version": "2026.01.02.2",
       "changeType": "content",
