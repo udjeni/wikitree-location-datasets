@@ -1,8 +1,16 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-03T11:12:09.565Z",
+  "generated": "2026-01-08T09:24:43.805Z",
   "datasetSchema": 1,
   "countries": {
+    "AU": {
+      "name": "AU",
+      "file": "datasets/AU.json",
+      "version": "2026.01.08.1",
+      "changeType": "content",
+      "recordCount": 4981,
+      "checksum": "sha256:70f0a5fe684584d462dd3a262ed32d40febbde65dc7de64c4003b658edf9fcd6"
+    },
     "CA": {
       "name": "CA",
       "file": "datasets/CA.json",
