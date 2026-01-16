@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-08T13:20:10.187Z",
+  "generated": "2026-01-16T16:15:56.572Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -30,10 +30,10 @@
     "IE": {
       "name": "Ireland",
       "file": "datasets/IE.json",
-      "version": "2026.01.03.1",
+      "version": "2026.01.16.1",
       "changeType": "content",
-      "recordCount": 140954,
-      "checksum": "sha256:915428b67a19b76c5a7e62964fa6f17a2a223e966371f9f64b1cd91dbde17aed"
+      "recordCount": 174249,
+      "checksum": "sha256:0c51e3453cb2d0e4f547376c0c803df8971697ccbc9a55874a0d3d1393163d69"
     },
     "NL": {
       "name": "Netherlands",
@@ -62,10 +62,10 @@
     "US": {
       "name": "United States",
       "file": "datasets/US.json",
-      "version": "2026.01.02.1",
+      "version": "2026.01.16.1",
       "changeType": "content",
-      "recordCount": 69960,
-      "checksum": "sha256:922ccfce3c9bccdfd78fe8bc0c275b8f516a19fb60f4136442901d750925fd76"
+      "recordCount": 69633,
+      "checksum": "sha256:c44554622e90d0f1f3e1c89250b50a0aa9751bca4897b95f71149b83e5c91be5"
     },
     "ZA": {
       "name": "South Africa",
