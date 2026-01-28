@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-21T16:58:29.348Z",
+  "generated": "2026-01-28T18:15:27.726Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -22,10 +22,10 @@
     "GB": {
       "name": "United Kingdom",
       "file": "datasets/GB.json",
-      "version": "2026.01.21.1",
+      "version": "2026.01.28.1",
       "changeType": "content",
-      "recordCount": 5439,
-      "checksum": "sha256:371dc39423d8f91ee77404fead3dd1e615b1853b8964ba094a930431526393ca"
+      "recordCount": 25424,
+      "checksum": "sha256:6fea83fb5922e932859261233d25f1f87b4b5e3638a245d84e52d63e593926b6"
     },
     "IE": {
       "name": "Ireland",
