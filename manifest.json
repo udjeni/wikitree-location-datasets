@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-28T18:15:27.726Z",
+  "generated": "2026-01-30T11:58:10.070Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -9,6 +9,7 @@
       "version": "2026.01.08.1",
       "changeType": "content",
       "recordCount": 4981,
+      "uniquePlaces": 4981,
       "checksum": "sha256:70f0a5fe684584d462dd3a262ed32d40febbde65dc7de64c4003b658edf9fcd6"
     },
     "CA": {
@@ -17,6 +18,7 @@
       "version": "2026.01.02.1",
       "changeType": "content",
       "recordCount": 321,
+      "uniquePlaces": 128,
       "checksum": "sha256:3cd834d0efdd156202b81ff217bfca8febaf9eca1a6e572d564e44a9a84b90f1"
     },
     "GB": {
@@ -25,6 +27,7 @@
       "version": "2026.01.28.1",
       "changeType": "content",
       "recordCount": 25424,
+      "uniquePlaces": 6683,
       "checksum": "sha256:6fea83fb5922e932859261233d25f1f87b4b5e3638a245d84e52d63e593926b6"
     },
     "IE": {
@@ -33,6 +36,7 @@
       "version": "2026.01.21.1",
       "changeType": "content",
       "recordCount": 174249,
+      "uniquePlaces": 65422,
       "checksum": "sha256:ef4a431d4eed498da8e7d8e55fc5be131507abc085310d00dbb275a5edc4c1c1"
     },
     "NL": {
@@ -41,6 +45,7 @@
       "version": "2026.01.02.1",
       "changeType": "content",
       "recordCount": 1545,
+      "uniquePlaces": 1381,
       "checksum": "sha256:00403f53880a6c841a1ceee120efccfd8da83a4566fe3ebd0be8ba00c1efa2fb"
     },
     "NZ": {
@@ -49,6 +54,7 @@
       "version": "2026.01.02.1",
       "changeType": "content",
       "recordCount": 1141,
+      "uniquePlaces": 1140,
       "checksum": "sha256:9573ee7e2016e2aec6b5c96a12b05b3c4776b7633a13666b45bd2935d60de1bb"
     },
     "PL": {
@@ -57,6 +63,7 @@
       "version": "2026.01.02.1",
       "changeType": "content",
       "recordCount": 2315,
+      "uniquePlaces": 2307,
       "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
     },
     "US": {
@@ -65,6 +72,7 @@
       "version": "2026.01.18.1",
       "changeType": "content",
       "recordCount": 69634,
+      "uniquePlaces": 19759,
       "checksum": "sha256:8fecd969ff8bd8fe3e88dff8912ba0c7863ce24460e852176701270a2f249d88"
     },
     "ZA": {
@@ -73,6 +81,7 @@
       "version": "2026.01.02.2",
       "changeType": "content",
       "recordCount": 11353,
+      "uniquePlaces": 789,
       "checksum": "sha256:88570971785c116b084ac355d10fc181e834208b03af97a25ef6b369461d9d30"
     }
   }
