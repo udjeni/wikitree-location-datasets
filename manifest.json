@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-01-30T11:58:10.070Z",
+  "generated": "2026-02-05T10:39:04.274Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -24,11 +24,11 @@
     "GB": {
       "name": "United Kingdom",
       "file": "datasets/GB.json",
-      "version": "2026.01.28.1",
+      "version": "2026.02.05.1",
       "changeType": "content",
-      "recordCount": 25424,
-      "uniquePlaces": 6683,
-      "checksum": "sha256:6fea83fb5922e932859261233d25f1f87b4b5e3638a245d84e52d63e593926b6"
+      "recordCount": 139881,
+      "uniquePlaces": 24893,
+      "checksum": "sha256:d57719828223a18364573dc2b008aec09644afced081e8ca9597ee120ac2f6fb"
     },
     "IE": {
       "name": "Ireland",
@@ -78,11 +78,11 @@
     "ZA": {
       "name": "South Africa",
       "file": "datasets/ZA.json",
-      "version": "2026.01.02.2",
+      "version": "2026.02.05.1",
       "changeType": "content",
-      "recordCount": 11353,
-      "uniquePlaces": 789,
-      "checksum": "sha256:88570971785c116b084ac355d10fc181e834208b03af97a25ef6b369461d9d30"
+      "recordCount": 11367,
+      "uniquePlaces": 790,
+      "checksum": "sha256:2712e3a164fb5b4015a735a76538adf50149f0f8ab1e1f4fe3f6e41aaf8ba85c"
     }
   }
 }
