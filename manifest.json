@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-02-15T13:54:43.218Z",
+  "generated": "2026-04-03T16:43:39.294Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -15,11 +15,11 @@
     "CA": {
       "name": "Canada",
       "file": "datasets/CA.json",
-      "version": "2026.01.02.1",
+      "version": "2026.04.03.1",
       "changeType": "content",
-      "recordCount": 321,
-      "uniquePlaces": 128,
-      "checksum": "sha256:3cd834d0efdd156202b81ff217bfca8febaf9eca1a6e572d564e44a9a84b90f1"
+      "recordCount": 129416,
+      "uniquePlaces": 26131,
+      "checksum": "sha256:d01fb73118147cae9c7d6437c91650b9e2b8252c2f94b79bf050700852602faf"
     },
     "GB": {
       "name": "United Kingdom",
@@ -69,20 +69,20 @@
     "US": {
       "name": "United States",
       "file": "datasets/US.json",
-      "version": "2026.01.18.1",
+      "version": "2026.04.03.1",
       "changeType": "content",
-      "recordCount": 69634,
-      "uniquePlaces": 19759,
-      "checksum": "sha256:8fecd969ff8bd8fe3e88dff8912ba0c7863ce24460e852176701270a2f249d88"
+      "recordCount": 85151,
+      "uniquePlaces": 19762,
+      "checksum": "sha256:bc9f59a5eeff4708923fe85654d2ab3d2c1c0fdf7110d4495c48dc56fc8a83fa"
     },
     "ZA": {
       "name": "South Africa",
       "file": "datasets/ZA.json",
-      "version": "2026.02.05.1",
+      "version": "2026.04.03.1",
       "changeType": "content",
-      "recordCount": 11367,
-      "uniquePlaces": 790,
-      "checksum": "sha256:2712e3a164fb5b4015a735a76538adf50149f0f8ab1e1f4fe3f6e41aaf8ba85c"
+      "recordCount": 11395,
+      "uniquePlaces": 792,
+      "checksum": "sha256:202ae2ff5a735eb8bafa7d12e9ab209800bc7cfa9a19498aaeed3ce9e96d8e4e"
     }
   }
 }
