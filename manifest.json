@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-04-05T12:05:28.713Z",
+  "generated": "2026-04-06T16:31:40.224Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -15,11 +15,11 @@
     "CA": {
       "name": "Canada",
       "file": "datasets/CA.json",
-      "version": "2026.04.03.1",
+      "version": "2026.04.06.2",
       "changeType": "content",
-      "recordCount": 129416,
-      "uniquePlaces": 26131,
-      "checksum": "sha256:d01fb73118147cae9c7d6437c91650b9e2b8252c2f94b79bf050700852602faf"
+      "recordCount": 141446,
+      "uniquePlaces": 29544,
+      "checksum": "sha256:31da0ae5a589b928a20c1f8f0d41d0eeebb4eb7ab4184fc210d2e20186cceb99"
     },
     "GB": {
       "name": "United Kingdom",
