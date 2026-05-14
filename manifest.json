@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-05-11T13:27:00.519Z",
+  "generated": "2026-05-14T11:40:19.764Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -69,11 +69,11 @@
     "US": {
       "name": "United States",
       "file": "datasets/US.json",
-      "version": "2026.05.11.1",
+      "version": "2026.05.14.1",
       "changeType": "content",
-      "recordCount": 117895,
-      "uniquePlaces": 42557,
-      "checksum": "sha256:343dbab29cdc3178069747543da3713113a488641a8e06ea1349aaef770f39d9"
+      "recordCount": 124676,
+      "uniquePlaces": 43741,
+      "checksum": "sha256:e9166f981bc44b8a1f3b557a20cd87b0d097d929ce47a83c6ca6b45a7d87429e"
     },
     "ZA": {
       "name": "South Africa",
