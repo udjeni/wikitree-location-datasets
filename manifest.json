@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-09-26T12:01:56.418Z",
+  "generated": "2026-10-30T18:54:52.914Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -24,11 +24,11 @@
     "GB": {
       "name": "United Kingdom",
       "file": "datasets/GB.json",
-      "version": "2026.09.25.2",
+      "version": "2026.10.30.1",
       "changeType": "content",
-      "recordCount": 115278,
-      "uniquePlaces": 28304,
-      "checksum": "sha256:d5f8bd279e58ef4b6891c2f028993c99281ac04b0419750b7e5b4e9716462ceb"
+      "recordCount": 184871,
+      "uniquePlaces": 41693,
+      "checksum": "sha256:d36fd3766e9f37f8b16d5622799b328e315a25b247a3086b2877f952d4583e2b"
     },
     "GR": {
       "name": "Greece",
