@@ -1,0 +1,106 @@
+{
+  "manifestVersion": 2,
+  "generated": "2026-11-04T17:28:02.044Z",
+  "datasetSchema": 1,
+  "countries": {
+    "AU": {
+      "name": "Australia",
+      "file": "datasets/AU.json",
+      "gzFile": "datasets/AU.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 67258,
+      "uniquePlaces": 15696,
+      "checksum": "sha256:22849bb30767784571083dd4fbfcb5be5faf3e19eb10681c0b07cd9b454cb519"
+    },
+    "CA": {
+      "name": "Canada",
+      "file": "datasets/CA.json",
+      "gzFile": "datasets/CA.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 141446,
+      "uniquePlaces": 29544,
+      "checksum": "sha256:4d02940dcb3c3936515fb02fb5916389445d46a7a9769d3d37cef740327e5be5"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "file": "datasets/GB.json",
+      "gzFile": "datasets/GB.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 183377,
+      "uniquePlaces": 41693,
+      "checksum": "sha256:1dbf257ab1d3739862db773caa785ad604742f6f75a41d7258f1910dfa93ef2b"
+    },
+    "GR": {
+      "name": "Greece",
+      "file": "datasets/GR.json",
+      "gzFile": "datasets/GR.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 3950,
+      "uniquePlaces": 899,
+      "checksum": "sha256:4828d020c5e027a714195a292de78fcb8c84507d958319c57f9f8da94acd37d5"
+    },
+    "IE": {
+      "name": "Ireland",
+      "file": "datasets/IE.json",
+      "gzFile": "datasets/IE.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 174358,
+      "uniquePlaces": 65412,
+      "checksum": "sha256:5e3f2ac1932377184518b85aec33c6d9d5be3d4a43f8bf26e500129c06af0ead"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "file": "datasets/NL.json",
+      "gzFile": "datasets/NL.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 1547,
+      "uniquePlaces": 1383,
+      "checksum": "sha256:d1efccc333469e45153fafb8ae9c12ddc2d5c6b9067b3b6b21738afb97a08e5a"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "file": "datasets/NZ.json",
+      "gzFile": "datasets/NZ.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 19441,
+      "uniquePlaces": 4754,
+      "checksum": "sha256:c5b850c591a35e5a6f3f6dbe944274b1de5b17188666c631db6f783f67be1ae1"
+    },
+    "PL": {
+      "name": "Poland",
+      "file": "datasets/PL.json",
+      "gzFile": "datasets/PL.json.gz",
+      "version": "2026.01.02.1",
+      "changeType": "content",
+      "recordCount": 2315,
+      "uniquePlaces": 2307,
+      "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
+    },
+    "US": {
+      "name": "United States",
+      "gzFile": "datasets/US.json.gz",
+      "version": "2026.11.04.1",
+      "changeType": "content",
+      "recordCount": 913893,
+      "uniquePlaces": 193604,
+      "checksum": "sha256:af32f7f07a728848dc6ad2b1eff326dd8730dbfe8a91bc5be962e5e5fe9ee94b"
+    },
+    "ZA": {
+      "name": "South Africa",
+      "file": "datasets/ZA.json",
+      "gzFile": "datasets/ZA.json.gz",
+      "version": "2026.11.02.1",
+      "changeType": "content",
+      "recordCount": 11432,
+      "uniquePlaces": 794,
+      "checksum": "sha256:364559d3fd6fccdc84bc40a93f458e6c29ef0da34ea3b2a2d541a06f0c7b2664"
+    }
+  }
+}
