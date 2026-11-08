@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-11-07T10:00:53.154Z",
+  "generated": "2026-11-08T13:19:21.644Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -123,11 +123,11 @@
     "SE": {
       "name": "Sweden",
       "file": "datasets/SE.json",
-      "version": "2026.11.07.1",
+      "version": "2026.11.08.1",
       "changeType": "content",
-      "recordCount": 7394,
+      "recordCount": 6335,
       "uniquePlaces": 2612,
-      "checksum": "sha256:4a173add4dfc395a1383b6f8ca0cb2c046a8ffc89bbda214af7407234f14754b"
+      "checksum": "sha256:49199d4efac97564df085376926ab19084544eec5852918c4889175549b98666"
     },
     "ZA": {
       "name": "South Africa",
