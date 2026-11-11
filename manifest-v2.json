@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "generated": "2026-11-11T11:48:11.098Z",
+  "generated": "2026-11-11T19:14:07.562Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -23,6 +23,25 @@
       "uniquePlaces": 29530,
       "checksum": "sha256:5f6a8bad51ee6e1130593d2763f39ba2d150e75f16399649d4579efbc770db7d"
     },
+    "DE": {
+      "name": "Germany",
+      "gzFile": "datasets/DE.json.gz",
+      "version": "2026.11.11.1",
+      "changeType": "content",
+      "recordCount": 1260347,
+      "uniquePlaces": 90800,
+      "checksum": "sha256:0ea7eaaac18fdd8c69a96e8e151467d4e279564ac76d06206d8781fe3064ce64"
+    },
+    "DK": {
+      "name": "Denmark",
+      "file": "datasets/DK.json",
+      "gzFile": "datasets/DK.json.gz",
+      "version": "2026.11.11.1",
+      "changeType": "content",
+      "recordCount": 8137,
+      "uniquePlaces": 2467,
+      "checksum": "sha256:312e95f3f5bc4699b5b4cb063312e2c4d3b09ddc0f604443a5bd2f1b4fd829c8"
+    },
     "FI": {
       "name": "Finland",
       "file": "datasets/FI.json",
@@ -42,6 +61,16 @@
       "recordCount": 388,
       "uniquePlaces": 194,
       "checksum": "sha256:f84e3bf18400949d5c0ab2c49b0b8098b842185bdae62492cd006105fcd0f6fd"
+    },
+    "FR": {
+      "name": "France",
+      "file": "datasets/FR.json",
+      "gzFile": "datasets/FR.json.gz",
+      "version": "2026.11.11.1",
+      "changeType": "content",
+      "recordCount": 114937,
+      "uniquePlaces": 45668,
+      "checksum": "sha256:3b7dd835058625371e2bf1628abef3ccbf17e0e5380db6b76ee3e1a6ce0a8cad"
     },
     "GB": {
       "name": "United Kingdom",
@@ -156,11 +185,11 @@
       "name": "South Africa",
       "file": "datasets/ZA.json",
       "gzFile": "datasets/ZA.json.gz",
-      "version": "2026.11.02.1",
+      "version": "2026.11.11.1",
       "changeType": "content",
-      "recordCount": 11432,
-      "uniquePlaces": 794,
-      "checksum": "sha256:364559d3fd6fccdc84bc40a93f458e6c29ef0da34ea3b2a2d541a06f0c7b2664"
+      "recordCount": 11446,
+      "uniquePlaces": 795,
+      "checksum": "sha256:45dad22933e48221b7a507b12c271c63f7a3f6c9e3b8fa58ec6057545cb9dbcb"
     }
   }
 }
