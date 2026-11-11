@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-11-08T13:19:21.644Z",
+  "generated": "2026-11-11T11:48:11.098Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -15,11 +15,11 @@
     "CA": {
       "name": "Canada",
       "file": "datasets/CA.json",
-      "version": "2026.11.04.1",
+      "version": "2026.11.11.1",
       "changeType": "content",
-      "recordCount": 141446,
-      "uniquePlaces": 29544,
-      "checksum": "sha256:4d02940dcb3c3936515fb02fb5916389445d46a7a9769d3d37cef740327e5be5"
+      "recordCount": 159928,
+      "uniquePlaces": 29530,
+      "checksum": "sha256:5f6a8bad51ee6e1130593d2763f39ba2d150e75f16399649d4579efbc770db7d"
     },
     "FI": {
       "name": "Finland",
