@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "generated": "2026-11-11T19:14:07.562Z",
+  "generated": "2026-11-20T20:57:42.396Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -26,11 +26,11 @@
     "DE": {
       "name": "Germany",
       "gzFile": "datasets/DE.json.gz",
-      "version": "2026.11.11.1",
+      "version": "2026.11.20.1",
       "changeType": "content",
-      "recordCount": 1260347,
-      "uniquePlaces": 90800,
-      "checksum": "sha256:0ea7eaaac18fdd8c69a96e8e151467d4e279564ac76d06206d8781fe3064ce64"
+      "recordCount": 1263154,
+      "uniquePlaces": 91015,
+      "checksum": "sha256:0d736441fec9c2fbefa26f6c853d6c0676f2c63f358efdb46eff2c6d5987ee41"
     },
     "DK": {
       "name": "Denmark",
@@ -154,13 +154,12 @@
     },
     "PL": {
       "name": "Poland",
-      "file": "datasets/PL.json",
       "gzFile": "datasets/PL.json.gz",
-      "version": "2026.01.02.1",
+      "version": "2026.11.20.1",
       "changeType": "content",
-      "recordCount": 2315,
-      "uniquePlaces": 2307,
-      "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
+      "recordCount": 3532403,
+      "uniquePlaces": 65030,
+      "checksum": "sha256:f1b1eeae79be19f608af111cda4b1fb5bccb69acbba26db830b2a04eb548a836"
     },
     "SE": {
       "name": "Sweden",

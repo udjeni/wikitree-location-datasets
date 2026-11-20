@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-11-11T19:14:07.562Z",
+  "generated": "2026-11-20T20:57:42.396Z",
   "datasetSchema": 1,
   "countries": {
     "AU": {
@@ -128,15 +128,6 @@
       "recordCount": 19441,
       "uniquePlaces": 4754,
       "checksum": "sha256:c5b850c591a35e5a6f3f6dbe944274b1de5b17188666c631db6f783f67be1ae1"
-    },
-    "PL": {
-      "name": "Poland",
-      "file": "datasets/PL.json",
-      "version": "2026.01.02.1",
-      "changeType": "content",
-      "recordCount": 2315,
-      "uniquePlaces": 2307,
-      "checksum": "sha256:c1e421fc0e3a29fead6fd1a49a69d20ff13b52db8a214d9e0fb2381009e0cb2e"
     },
     "SE": {
       "name": "Sweden",
