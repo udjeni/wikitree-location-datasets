@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "generated": "2026-11-27T13:22:45.077Z",
+  "generated": "2026-11-27T22:35:57.726Z",
   "datasetSchema": 1,
   "countries": {
     "AT": {
@@ -46,11 +46,11 @@
       "name": "Canada",
       "file": "datasets/CA.json",
       "gzFile": "datasets/CA.json.gz",
-      "version": "2026.11.27.1",
+      "version": "2026.11.27.2",
       "changeType": "content",
-      "recordCount": 140816,
+      "recordCount": 159528,
       "uniquePlaces": 29530,
-      "checksum": "sha256:7755a5266712813775c4b31e279b279a66218300a5f46b90de72a1aa52c55c15",
+      "checksum": "sha256:fc1169a852fa03d7b73317693bb0f3e76512879152ee4ec51f281d2f97d9a5d9",
       "fetch": {
         "country": "CA"
       }
@@ -70,11 +70,11 @@
     "DE": {
       "name": "Germany",
       "gzFile": "datasets/DE.json.gz",
-      "version": "2026.11.27.1",
+      "version": "2026.11.27.2",
       "changeType": "content",
       "recordCount": 1260431,
       "uniquePlaces": 91014,
-      "checksum": "sha256:c3f30b6224cd254350fe47b5fb18451335cc83a86424904a22c3afd2bca4b2b8",
+      "checksum": "sha256:9059e1a9d84d2335af896a9a8645d76b384470f71534e00e8ec2cc2695ef363a",
       "fetch": {
         "subsets": [
           "DE-%"
@@ -97,11 +97,11 @@
     "ES": {
       "name": "Spain",
       "gzFile": "datasets/ES.json.gz",
-      "version": "2026.11.27.1",
+      "version": "2026.11.27.2",
       "changeType": "content",
-      "recordCount": 378683,
+      "recordCount": 378692,
       "uniquePlaces": 65812,
-      "checksum": "sha256:ef8218a6e7ce6b5a1c759ac181f47bf39208c6112324bbfe8d5c17035ed666c6",
+      "checksum": "sha256:7df9b3a1d333f9920c91365a03597d6f0a4f9e686467d5b86d9074869553bfd4",
       "fetch": {
         "country": "ES"
       }
@@ -278,11 +278,11 @@
     "PL": {
       "name": "Poland",
       "gzFile": "datasets/PL.json.gz",
-      "version": "2026.11.25.1",
+      "version": "2026.11.27.1",
       "changeType": "content",
-      "recordCount": 2679016,
+      "recordCount": 2295217,
       "uniquePlaces": 65029,
-      "checksum": "sha256:5b4c79720c0332b046735af26b047d37f658df687d25cdbce2e07784b2076305",
+      "checksum": "sha256:71507bba348dc205a3e53aea3d789e0e71412d9dd32b62234d5cd3fb8bb91ad5",
       "fetch": {
         "subsets": [
           "PL-%"
@@ -344,11 +344,11 @@
       "name": "South Africa",
       "file": "datasets/ZA.json",
       "gzFile": "datasets/ZA.json.gz",
-      "version": "2026.11.27.1",
+      "version": "2026.11.27.2",
       "changeType": "content",
-      "recordCount": 11446,
+      "recordCount": 11340,
       "uniquePlaces": 795,
-      "checksum": "sha256:1b06df8d4d0b0a9570c387157674b6195ac61a0cbd0edf492f5ef771f3f7a82a",
+      "checksum": "sha256:24096cedf8c676420062f7b81b6545ad6a549297d1965d08063c35ccbb585906",
       "fetch": {
         "country": "ZA"
       }
