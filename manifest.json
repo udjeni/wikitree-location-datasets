@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generated": "2026-11-27T22:35:57.726Z",
+  "generated": "2026-11-28T11:11:30.660Z",
   "datasetSchema": 1,
   "countries": {
     "AT": {
@@ -219,6 +219,18 @@
         "country": "NZ"
       }
     },
+    "PT": {
+      "name": "Portugal",
+      "file": "datasets/PT.json",
+      "version": "2026.11.28.1",
+      "changeType": "content",
+      "recordCount": 122376,
+      "uniquePlaces": 26548,
+      "checksum": "sha256:86e8db4c169d720a65d8cd1ad6ceb9ab79bd7cadcba34cf78d9306c3e466fa81",
+      "fetch": {
+        "country": "PT"
+      }
+    },
     "SE": {
       "name": "Sweden",
       "file": "datasets/SE.json",
@@ -258,11 +270,11 @@
     "ZA": {
       "name": "South Africa",
       "file": "datasets/ZA.json",
-      "version": "2026.11.27.2",
+      "version": "2026.11.28.1",
       "changeType": "content",
       "recordCount": 11340,
       "uniquePlaces": 795,
-      "checksum": "sha256:24096cedf8c676420062f7b81b6545ad6a549297d1965d08063c35ccbb585906",
+      "checksum": "sha256:2834d20153391d429c555dadc60f5e0b3c8ad7094b2f283db26f96d35d37ea4b",
       "fetch": {
         "country": "ZA"
       }
